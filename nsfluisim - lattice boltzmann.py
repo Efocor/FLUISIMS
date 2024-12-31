@@ -265,4 +265,4 @@ if __name__ == "__main__":
     main()
 
 #..................................................| Fin del código
-#..... Todos los derechos reservados a @FECORO, 2022
+# Derechos de autor (c) FECORO 2022.
