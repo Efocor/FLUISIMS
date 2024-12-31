@@ -1,4 +1,4 @@
-#.... @FECORO, 2024 ....
+#.... @FECORO, 2022 ....
 
 """
 Simulador de fluidos avanzado basado en las ecuaciones de Navier-Stokes.
@@ -793,4 +793,4 @@ if __name__ == "__main__":
     main()
 
 #.........................................................| FIN DEL CÓDIGO
-# Derechos de autor (c) FECORO 2024.
+# Derechos de autor (c) FECORO 2022.
