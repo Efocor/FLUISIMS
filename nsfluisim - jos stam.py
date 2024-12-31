@@ -1,4 +1,4 @@
-#..... FECORO 2022 .....
+#..... @FECORO, 2022 .....
 """
 Simulación simple de fluidos de Jos Stam
 
@@ -172,3 +172,6 @@ def actualiza(frame):
 
 ani = animation.FuncAnimation(fig, actualiza, frames=200, interval=50, blit=True)
 plt.show()
+
+#.........................................................| FIN DEL CÓDIGO
+# Derechos de autor (c) FECORO 2022.
