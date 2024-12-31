@@ -1,5 +1,5 @@
 # FLUISIMS
-Este proyecto implementa una simulación de fluidos basada en las **Ecuaciones de Navier-Stokes** utilizando **Python** y **Pygame** para la visualización interactiva. La simulación modela el fluido como un campo de velocidad `(Vx, Vy)` y densidad en una cuadrícula de tamaño `N x N`, resolviendo las ecuaciones mediante el método de proyección de presión. Además, la difusión y advección de las propiedades del fluido se realizan de manera explícita para garantizar una representación precisa del comportamiento del fluido.
+Este proyecto implementa simulaciones de fluidos basadas en **Ecuaciones físicas** utilizando **Python** y **Pygame** u otros para la visualización interactiva. La simulación modela el fluido como un campo de velocidad `(Vx, Vy)` y densidad en una cuadrícula de tamaño `N x N`, resolviendo las ecuaciones mediante el método de proyección de presión. Además, la difusión y advección de las propiedades del fluido se realizan de manera explícita para garantizar una representación precisa del comportamiento del fluido.
 
 ## Características Principales
 
